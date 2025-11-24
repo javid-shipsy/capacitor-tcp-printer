@@ -1,4 +1,4 @@
-package com.stockone.plugins.tcpprinter
+package com.shipsy.tcpprinter
 
 import android.util.Log
 import com.getcapacitor.Plugin
