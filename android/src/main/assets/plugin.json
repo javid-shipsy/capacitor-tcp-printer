@@ -1,0 +1,5 @@
+{
+    "name": "TcpPrint",
+    "methods": [{ "name": "send" }]
+  }
+  

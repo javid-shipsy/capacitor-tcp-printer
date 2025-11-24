@@ -1,0 +1,20 @@
+{
+    "name": "capacitor-tcp-printer",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "dist/index.js",
+    "types": "dist/definitions.d.ts",
+    "capacitor": {
+      "android": {
+        "src": "android"
+      }
+    },
+    "scripts": {
+      "build": "tsc"
+    },
+    "devDependencies": {
+      "typescript": "^5.0.0",
+      "@capacitor/core": "^6.1.2"
+    }
+  }
+  
