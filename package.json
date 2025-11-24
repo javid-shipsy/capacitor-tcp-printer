@@ -7,6 +7,14 @@
       "build": "tsc",
       "prepare": "npm run build"
     },
+    "capacitor": {
+    "ios": {
+      "src": "ios"
+    },
+    "android": {
+      "src": "android"
+    }
+  },
     "devDependencies": {
       "typescript": "^5.0.0",
       "@capacitor/core": "^6.1.2"
